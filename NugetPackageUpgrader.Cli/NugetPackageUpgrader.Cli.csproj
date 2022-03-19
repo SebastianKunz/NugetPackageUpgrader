@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>0.1.0</Version>
+        <PackAsTool>true</PackAsTool>
+        <ToolCommandName>nugetupgrader</ToolCommandName>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <RepositoryUrl>https://github.com/SebastianKunz/NugetPackageUpgrader</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/SebastianKunz/NugetPackageUpgrader</PackageProjectUrl>
+        <PackageLicenseUrl>http://www.wtfpl.net/txt/copying/</PackageLicenseUrl>
+        <Title>NugetPackageUpgrader</Title>
+        <Authors>Sebastian Kunz</Authors>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NugetPackageUpgrader.Core\NugetPackageUpgrader.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CommandLineParser" Version="2.8.0" />
+      <PackageReference Include="Crayon" Version="2.0.64" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+      <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
+    </ItemGroup>
+
+</Project>

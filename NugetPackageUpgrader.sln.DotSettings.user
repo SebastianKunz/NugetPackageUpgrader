@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c7eb435_002Dd3fe_002D442c_002Db83b_002Df6834c4f9fa7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1.0.0",1,0,0,null,null)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1.2.3",1,2,3,null,null)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("0.0.0",0,0,0,null,null)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1.0",1,0,0,null,null)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1",1,0,0,null,null)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1.5",1,5,0,null,null)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1.5-beta2",1,5,0,"beta",2)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1.5-abc1337",1,5,0,"abc",1337)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1.5.1-beta2",1,5,1,"beta",2)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U001VersionParser.U001_001ParseMajorMinorPatch("1-a24",1,0,0,"a",24)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U002TransitiveProjectUpgrader.U002_001WithoutDependencies&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U002TransitiveProjectUpgrader.U002_001UpgradeWithoutDependencies&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U002TransitiveProjectUpgrader.U002_002UpgradeOutputToNugetSource&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U002TransitiveProjectUpgrader.U002_003UpgradeDependencyAndParent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1385F777-834B-408C-B494-F99588B2BF51::net6.0::NugetPackageUpgrader.Core.Tests.Unit.U002TransitiveProjectUpgrader&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
